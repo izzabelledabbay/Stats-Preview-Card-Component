@@ -26,10 +26,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop view:
-![ ](.solution/FEC2-Desktop-Solution.png)
+![](.solution/FEC2-Desktop-Solution.png)
 
 Mobile view:
-![ ](.solution/FEC2-Mobile-Solution.png)
+![](.solution/FEC2-Mobile-Solution.png)
 
 
 ### Links
