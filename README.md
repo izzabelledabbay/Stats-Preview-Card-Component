@@ -76,4 +76,4 @@ It took me a while to figure out how to reverse the default Bootstrap oder for t
 
 ## Author
 
-- Frontend Mentor - [@yizzabelledabbay](https://www.frontendmentor.io/profile/izzabelledabbay)
+- Frontend Mentor - [@izzabelledabbay](https://www.frontendmentor.io/profile/izzabelledabbay)
